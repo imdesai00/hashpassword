@@ -1,5 +1,5 @@
 
-# ASP.NET Core Web API: Login & Register with JWT Token Functionality
+# ASP.NET Core Web API with Password Hashing and PostgreSQL Storage
   This project is a demonstration of building a secure ASP.NET Core Web API with password hashing using salt and storing user credentials in a PostgreSQL database. By implementing proper password hashing techniques and utilizing a secure database storage mechanism, this API ensures that user passwords are adequately protected from common security threats like brute-force attacks and password leaks.
 ## Features
 
